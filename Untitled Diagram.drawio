@@ -140,13 +140,16 @@
           <mxGeometry x="653" y="414.8" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BnvojqkhXluDp6K0MkYG-48" value="Federated Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="845" y="421" width="60" height="30" as="geometry" />
+          <mxGeometry x="1150" y="391.2" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BnvojqkhXluDp6K0MkYG-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BnvojqkhXluDp6K0MkYG-49" target="BnvojqkhXluDp6K0MkYG-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BnvojqkhXluDp6K0MkYG-49" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="188" width="135" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="BnvojqkhXluDp6K0MkYG-51" value="Federated Server Aggregates Model Updates (FedAvg)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="827" y="348.35" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
